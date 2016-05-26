@@ -158,8 +158,6 @@ return [
 
 
         PlusTelecomBilling\Providers\BillingServiceProvider::class,
-        PlusTelecomProfitwell\Providers\ProfitwellServiceProvider::class,
-
     ],
 
     /*
