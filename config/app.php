@@ -158,7 +158,7 @@ return [
 
 
         PlusTelecomBilling\Providers\BillingServiceProvider::class,
-//        PlusTelecomProfitwell\Providers\ProfitwellServiceProvider::class,
+        PlusTelecomProfitwell\Providers\ProfitwellServiceProvider::class,
 
     ],
 
